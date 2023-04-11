@@ -66,11 +66,13 @@ position: absolute;
     height: 30px;
 }
 .search input[type=text]{
+    outline: none;
     border: none;
     align-content: center;
     padding: 0;
     margin-right: 70px;
     font-size: 20px;
+    
 }
 /* .search input[type=text]:focus{
     border: none;
